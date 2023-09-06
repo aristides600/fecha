@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('America/Argentina/Ushuaia');
 $prueba = date("Y/m/d");
 echo "Hoy es: ".date("d/m/Y");
 echo "<br/>";
